@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hello,
+I am a curious Front End Developer with robust practical knowledge in JavaScript, ES6, React.js as well as UI/UX tools like Photoshop, Illustrator and Figma & modern design concepts.</br>
 
-<!--
-**jicumollick/jicumollick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Front End Web Development.  
+- 🌱 I’m currently learning React Advanced Topics. 
+- 💬 Ask me about Front End web application development. 
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/jicumollick)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/jicu-mollick-12a7091a0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/WebBlood)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=jicumollick)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jicumollick)]
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jicumollick&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jicumollick)  
+
+![GitHub metrics](https://metrics.lecoq.io/jicumollick)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jicumollick)  
+
+![Profile views](https://gpvc.arturio.dev/jicumollick)
